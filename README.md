@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm [Firoj Miya]
+# 👋 Hey, I'm [Trishan Shrestha]
 
 ### 💻 Full Stack Developer | 🚀 Builder | 🌟 Open Source Enthusiast
  
@@ -14,7 +14,7 @@
 
 ```javascript
 const aboutMe = {
-    name: "Firoj Miya",
+    name: "Trishan Shrestha",
     location: "Butwal-Rupandehi, Nepal",
     role: "Full Stack Developer",
     currentFocus: ["Web Development", "Mobile Applications", "Open Source"],
@@ -85,7 +85,7 @@ const aboutMe = {
 <td width="50%">
 
 ### 🎨 Project One
-**[English Dictionary (Python)](https://github.com/FirojMiya7/pythonLearning/blob/main/Basics/Exercise/tuts11Dictionary.py)**
+**[English Dictionary (Python)](https://github.com/shresthatrishan/pythonLearning/blob/main/Basics/Exercise/tuts11Dictionary.py)**
 
 A simple command-line English Dictionary that helps users quickly find word meanings.
 Built to strengthen core Python concepts like dictionaries, loops, and user input handling.
@@ -155,14 +155,14 @@ Fourth project showcasing different skills. What impact did it have?
 
 <div align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=FirojMiya7&theme=TokyoNight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FirojMiya7&theme=TokyoNight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=shresthatrishan&theme=TokyoNight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shresthatrishan&theme=TokyoNight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
 <div align="center">
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FirojMiya7&label=Profile%20views&color=0e75b6&style=flat" alt="FirojMiya7" />
+  <img src="https://komarev.com/ghpvc/?username=shresthatrishan&label=Profile%20views&color=0e75b6&style=flat" alt="shresthatrishan" />
 </p>
 </div>
 
@@ -174,9 +174,10 @@ Fourth project showcasing different skills. What impact did it have?
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FirojMiya7/FirojMiya7/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FirojMiya7/FirojMiya7/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FirojMiya7/FirojMiya7/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shresthatrishan/shresthatrishan/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shresthatrishan
+    
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shresthatrishan/shresthatrishan/output/pacman-contribution-graph.svg">
   </picture>
 </p>
 
@@ -191,7 +192,7 @@ Fourth project showcasing different skills. What impact did it have?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:firojali723@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trishan.shrestha11@gmail.com)
 <!-- [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/yourusername) -->
 
 </div>
@@ -226,7 +227,7 @@ Fourth project showcasing different skills. What impact did it have?
 <!-- 
 ![](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views)
 
-**⭐ From [FirojMiya7](https://github.com/FirojMiya7)** -->
+**⭐ From [shresthatrishan](https://github.com/shresthatrishan)** -->
 
 </div>
 
