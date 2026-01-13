@@ -32,7 +32,7 @@ const aboutMe = {
     • DSA & algorithm implementations
     • College / academic projects
 - 🎓 I am a **BSc. CSIT Student**
-- 📧 Reach me: **trishan.shestha11@gmail.com**
+- 📧 Reach me: **trishan.shrestha11@gmail.com**
 
 ---
 
