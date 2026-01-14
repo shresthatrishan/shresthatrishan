@@ -1,14 +1,9 @@
-name: Generate Snake
+name: Generate Black Pacman
 
 on:
-  # Run automatically every 24 hours
   schedule:
-    - cron: "0 */24 * * *"
-  
-  # Allows you to run this workflow manually from the Actions tab
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  
-  # Run on every push to the main branch
   push:
     branches:
       - main
@@ -17,27 +12,21 @@ permissions:
   contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
     steps:
-      # Checkout the repository
-      - name: Checkout
-        uses: actions/checkout@v3
-      
-      # Generate the snake game from GitHub contribution graph
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Black Pacman eating contributions
+        uses: Platane/snk@v3
         with:
           github_user_name: shresthatrishan
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            dist/github-snake.svg?color_snake=#000000&color_dots=#9be9a8,#40c463,#30a14e,#216e39
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#000000&color_dots=#9be9a8,#40c463,#30a14e,#216e39
       
-      # Push the generated files to the output branch
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push Black Pacman to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
