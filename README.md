@@ -151,6 +151,10 @@ Fourth project showcasing different skills. What impact did it have?
 <!-- BLOG-POST-LIST:END -->
 ---
 
+## 🟡 My GitHub Pac-Man
+
+![Pacman Contribution](https://raw.githubusercontent.com/shresthatrishan/shresthatrishan/output/pacman.svg)
+
 # 📊 GitHub Stats:
 
 <div align="center">
