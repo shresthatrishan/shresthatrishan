@@ -173,18 +173,9 @@ Fourth project showcasing different skills. What impact did it have?
 ---
 
 ### 🎮 Watch my contributions get devoured!
-  
-</div align="center">
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shresthatrishan/shresthatrishan/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shresthatrishan
-    
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shresthatrishan/shresthatrishan/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shresthatrishan/shresthatrishan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
